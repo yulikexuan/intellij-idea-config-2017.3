@@ -1,0 +1,113 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="D:/Workdir/Projects/webapp" />
+        <option value="D:/gwt/springguru" />
+        <option value="D:/gwt/bfunctional" />
+        <option value="D:/gwt/bootstraplab" />
+        <option value="D:/Spring/guru/assignments" />
+      </list>
+    </option>
+    <option name="openPaths">
+      <list>
+        <option value="D:/Workdir/Projects/webapp" />
+      </list>
+    </option>
+    <option name="lastPath" value="D:/Workdir/Projects/webapp" />
+    <option name="pid" value="7052" />
+    <option name="additionalInfo">
+      <map>
+        <entry key="D:/Spring/guru/assignments">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.4343.14" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1508506306806" />
+              <option name="buildTimestamp" value="1506404264440" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/Spring/guru/bfunctional">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.4343.14" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1510062207156" />
+              <option name="buildTimestamp" value="1506404231412" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/Spring/guru/spring5-jokes-app">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.4343.14" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1508764775787" />
+              <option name="buildTimestamp" value="1506404257948" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/Workdir/Projects/vizimaxwebapps">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.4343.14" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1508263050185" />
+              <option name="buildTimestamp" value="1506404221609" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/Workdir/Projects/webapp">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.3727.127" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1512396530037" />
+              <option name="buildTimestamp" value="1511788734108" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/gwt/bfunctional">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.4574.11" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1512394905659" />
+              <option name="buildTimestamp" value="1510606423165" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/gwt/bootstraplab">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.4574.11" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1510855155613" />
+              <option name="buildTimestamp" value="1510606393227" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/gwt/springguru">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.3727.127" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1512396397988" />
+              <option name="buildTimestamp" value="1511788734108" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="D:/gwt" />
+  </component>
+</application>

@@ -1,0 +1,57 @@
+<application>
+  <component name="ToolbarClicksCollector">
+    <counts>
+      <entry action="Debug@NavBarToolbar" count="13" />
+      <entry action="FileChooser.Delete@FileChooserDialog" count="1" />
+      <entry action="FileChooser.GotoProject@FileChooserDialog" count="5" />
+      <entry action="FileChooser.Refresh@FileChooserDialog" count="1" />
+      <entry action="Images.Thumbnails.Hide@Images.Thumbnails" count="1" />
+      <entry action="Maven.Reimport@Maven_Navigator_Toolbar" count="14" />
+      <entry action="PinToolwindowTab@TypeHierarchyViewToolbar" count="2" />
+      <entry action="Rerun@RunnerToolbar" count="5" />
+      <entry action="Resume@DebuggerToolbar" count="1" />
+      <entry action="Run@NavBarToolbar" count="15" />
+      <entry action="RunDashboard.Run@RunDashboardContent#Toolbar" count="12" />
+      <entry action="RunDashboard.Stop@RunDashboardContent#Toolbar" count="1" />
+      <entry action="Stop@DebuggerToolbar" count="1" />
+      <entry action="Stop@NavBarToolbar" count="13" />
+      <entry action="Stop@RunnerToolbar" count="3" />
+      <entry action="com.intellij.application.options.schemes.AbstractSchemesPanel$ShowSchemesActionsListAction@NavBarToolbar" count="1" />
+      <entry action="com.intellij.compiler.impl.CompilerPropertiesAction@CompilerMessagesToolbar" count="1" />
+      <entry action="com.intellij.coverage.view.CoverageView$6@CoverageView" count="4" />
+      <entry action="com.intellij.coverage.view.CoverageView$FlattenPackagesAction@CoverageView" count="15" />
+      <entry action="com.intellij.coverage.view.CoverageView$GoUpAction@CoverageView" count="26" />
+      <entry action="com.intellij.execution.ui.actions.CloseAction@RunDashboardContent#Toolbar" count="1" />
+      <entry action="com.intellij.execution.ui.actions.CloseAction@RunnerToolbar" count="2" />
+      <entry action="com.intellij.find.SearchTextArea$ClearAction@unknown" count="17" />
+      <entry action="com.intellij.find.SearchTextArea$NewLineAction@unknown" count="3" />
+      <entry action="com.intellij.find.SearchTextArea$ShowHistoryAction@unknown" count="15" />
+      <entry action="com.intellij.find.editorHeaderActions.NextOccurrenceAction@EditorToolbar" count="1" />
+      <entry action="com.intellij.find.impl.FindPopupPanel$MySelectScopeToggleAction@EditorToolbar" count="13" />
+      <entry action="com.intellij.find.impl.FindPopupPanel$MyShowFilterPopupAction@unknown" count="6" />
+      <entry action="com.intellij.ide.actions.CollapseAllToolbarAction@SpringFacetDisplaySettingsToolbar" count="1" />
+      <entry action="com.intellij.ide.actions.ExpandAllToolbarAction@SpringFacetDisplaySettingsToolbar" count="1" />
+      <entry action="com.intellij.ide.actions.NextOccurenceToolbarAction@RunnerToolbar" count="1" />
+      <entry action="com.intellij.ide.actions.NextOccurenceToolbarAction@TestRunnerResults" count="1" />
+      <entry action="com.intellij.ide.actions.PreviousOccurenceToolbarAction@RunnerToolbar" count="1" />
+      <entry action="com.intellij.ide.actions.PreviousOccurenceToolbarAction@TestRunnerResults" count="2" />
+      <entry action="com.intellij.ide.browsers.actions.BaseWebBrowserAction@ContextToolbar" count="27" />
+      <entry action="com.intellij.ide.errorTreeView.NewErrorTreeViewPanel$5@CompilerMessagesToolbar" count="1" />
+      <entry action="com.intellij.ide.fileTemplates.impl.AllFileTemplatesConfigurable$5@FileTemplatesConfigurable" count="2" />
+      <entry action="com.intellij.ide.fileTemplates.impl.AllFileTemplatesConfigurable$6@FileTemplatesConfigurable" count="2" />
+      <entry action="com.intellij.ide.hierarchy.HierarchyBrowserBase$CloseAction@CallHierarchyViewToolbar" count="1" />
+      <entry action="com.intellij.openapi.actionSystem.DefaultActionGroup@DebuggerToolbar" count="1" />
+      <entry action="com.intellij.openapi.actionSystem.DefaultActionGroup@EditorToolbar" count="1" />
+      <entry action="com.intellij.openapi.editor.actions.ScrollToTheEndToolbarAction@RunnerToolbar" count="2" />
+      <entry action="com.intellij.openapi.editor.actions.ScrollToTheEndToolbarAction@TestRunnerResults" count="1" />
+      <entry action="com.intellij.openapi.roots.ui.configuration.actions.ToggleExcludedStateAction@ProjectStructureContentEntries" count="2" />
+      <entry action="com.intellij.spring.facet.SpringConfigurationTab$MyCheckedActionGroup@ToolbarDecorator" count="1" />
+      <entry action="com.intellij.ui.AnActionButton$AnActionButtonWrapper@ToolbarDecorator" count="21" />
+      <entry action="com.intellij.ui.AutoScrollFromSourceHandler$AutoScrollFromSourceAction@CoverageView" count="2" />
+      <entry action="com.intellij.ui.AutoScrollToSourceHandler$AutoscrollToSourceAction@CoverageView" count="2" />
+      <entry action="com.intellij.ui.CommonActionsPanel$MyActionButton@ToolbarDecorator" count="110" />
+      <entry action="com.intellij.ui.classFilter.ClassFilterEditor$2@ToolbarDecorator" count="1" />
+      <entry action="org.jetbrains.plugins.terminal.TerminalView$CloseSession@Terminal" count="1" />
+    </counts>
+  </component>
+</application>

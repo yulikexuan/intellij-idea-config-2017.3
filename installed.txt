@@ -1,0 +1,4 @@
+Axis TCP Monitor Plugin
+Lombook Plugin
+com.intellij.plugins.html.instantEditing
+mobi.hsz.idea.gitignore

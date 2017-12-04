@@ -1,0 +1,5 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <ignored-resource url="https://gwt.googlesource.com/gwt/+/2.8.1/distro-source/core/src/gwt-module.dtd" />
+  </component>
+</application>

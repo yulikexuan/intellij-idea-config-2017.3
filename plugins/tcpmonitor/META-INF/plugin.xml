@@ -1,0 +1,14 @@
+<idea-plugin url="http://www.intellij.org/twiki/bin/view/Main/TcpMonitor">
+	<name>Axis TCP Monitor Plugin</name>
+	<description>Integrates the Axis TCP Monitor</description>
+	<version>1.0.7</version>
+	<vendor email="iceman@niku.com">Michael Hoefer</vendor>
+	<change-notes>@changes@</change-notes>
+	<idea-version since-build=""/>
+	<project-components>
+		<component>
+			<implementation-class>com.mph.tcpmonitor.Plugin</implementation-class>
+			<interface-class>com.mph.tcpmonitor.Plugin</interface-class>
+		</component>
+	</project-components>
+</idea-plugin>

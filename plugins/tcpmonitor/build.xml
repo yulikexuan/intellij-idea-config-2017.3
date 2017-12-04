@@ -1,0 +1,47 @@
+<project name="tcpmon" default="build" basedir=".">
+  <property name="idea.home" location="D:\Program Files\JetBrains\IntelliJ IDEA 3245"/>
+  <property name="idea.config" location="C:\Documents and Settings\iceman\.IntelliJIdea\config"/>
+  <property name="axis.home" location="E:\thirdparty\axis-1_2RC3"/>
+  <property name="since.build" value=""/>
+  <property name="version" value="1.0.7"/>
+  <property name="changes" value="Repackaged with missing icon image"/>
+  <target name="build" depends="compile,package"/>
+  <target name="clean">
+    <delete dir="classes"/>
+  </target>
+  <target name="compile">
+    <mkdir dir="classes"/>
+    <copy todir="classes/images">
+      <fileset dir="src/images"/>
+    </copy>
+    <javac debug="true" srcdir="src" destdir="classes">
+      <classpath>
+        <fileset dir="${axis.home}/lib" includes="*.jar"/>
+        <pathelement location="${idea.home}/lib/openapi.jar"/>
+      </classpath>
+    </javac>
+  </target>
+  <target name="package">
+    <delete dir="build"/>
+    <mkdir dir="build/lib"/>
+    <jar basedir="classes" file="build/lib/tcpmon.jar"/>
+    <copy todir="build">
+      <fileset dir="." includes="README.TXT,build.xml"/>
+      <fileset dir="src"/>
+      <fileset dir="${axis.home}" includes="lib\axis.jar,lib\commons-discovery.jar,lib\commons-logging.jar,
+                      lib\jaxrpc.jar,lib\log4j*.jar,lib\saaj.jar,lib\wsdl4j.jar"/>
+      <filterset>
+        <filter token="version" value="${version}"/>
+        <filter token="since.build" value="${since.build}"/>
+      </filterset>
+    </copy>
+    <zip file="TcpMonitor-bin.zip">
+      <zipfileset dir="build" prefix="tcpmonitor"/>
+    </zip>
+  </target>
+  <target name="deploy">
+    <delete dir="${idea.config}/plugins/tcpmonitor"/>
+    <unzip src="TcpMonitor-bin.zip" dest="${idea.config}/plugins"/>
+  </target>
+</project>
+

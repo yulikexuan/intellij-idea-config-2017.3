@@ -1,0 +1,40 @@
+<scheme name="_@user_Darcula" version="142" parent_scheme="Darcula">
+  <option name="FONT_SCALE" value="1.0833334" />
+  <metaInfo>
+    <property name="created">2017-10-16T09:24:34</property>
+    <property name="ide">idea</property>
+    <property name="ideVersion">2017.2.5.0.0</property>
+    <property name="modified">2017-10-26T16:07:49</property>
+    <property name="originalScheme">Darcula</property>
+  </metaInfo>
+  <option name="CONSOLE_FONT_NAME" value="Monospaced" />
+  <option name="CONSOLE_FONT_SIZE" value="13" />
+  <option name="CONSOLE_LINE_SPACING" value="1.2" />
+  <colors>
+    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="62696f" />
+    <option name="MODIFIED_LINES_COLOR" value="384c38" />
+  </colors>
+  <attributes>
+    <option name="ERRORS_ATTRIBUTES">
+      <value>
+        <option name="EFFECT_COLOR" value="ffaa00" />
+        <option name="ERROR_STRIPE_COLOR" value="ff8800" />
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="LINE_NONE_COVERAGE">
+      <value>
+        <option name="FOREGROUND" value="715353" />
+        <option name="BACKGROUND" value="ff4400" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="WRONG_REFERENCES_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="bc3f3c" />
+        <option name="EFFECT_COLOR" value="ff9900" />
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+  </attributes>
+</scheme>

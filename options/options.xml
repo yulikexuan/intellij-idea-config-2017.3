@@ -1,0 +1,76 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="Default.savedEditorTheme" value="_@user_Default" />
+    <property name="evlsprt3.172" value="17" />
+    <property name="installed.kotlin.plugin.version" value="1.2.0-release-IJ2017.3-1" />
+    <property name="file.chooser.recent.files" value="D:/IngelliJ IDEA/config/settings&#10;D:/Workdir/Projects/webapp/rw/src/main/resources/com/vizimax/rightwon/satellite/client/view/system&#10;D:/Workdir/Projects/webapp/rw/src/main/webapp/SatelliteHMI.html&#10;D:/Workdir/Projects/webapp/rw/src/main/webapp&#10;D:/Workdir/Projects/webapp/rw/src/main/webapp/WEB-INF/web.xml&#10;D:/Workdir/Projects/webapp/rw&#10;D:/Workdir/Projects/webapp/SynchroTalk/src/main/webapp/SynchroTalk.html&#10;D:/Workdir/Projects/webapp/SynchroTalk/src/main/webapp/index.html&#10;D:/Workdir/Projects/webapp/rw/src/main/webapp/index.html&#10;D:/Workdir/Projects/webapp/rw/src/main/webapp/DeviceHMI.html&#10;D:/Workdir/Projects/webapp/rw/target/rw-web-2.0.2/SatelliteHMI.html&#10;D:/gwt/springguru/spring5-di-demo&#10;D:/maven/apache-maven-3.5.0/conf/settings.xml&#10;D:/maven/apache-maven-3.5.0&#10;D:/Spring/guru/assignments/pom.xml&#10;D:/Spring/guru&#10;D:/gwt/gwt-2.8.1&#10;D:/Workdir/Projects/webapp/module&#10;D:/Workdir/Projects/webapp/mockito&#10;D:/Workdir/Projects/webapp/ui&#10;D:/Workdir/Projects/webapp/elements&#10;D:/Workdir/Projects/webapp/interaction&#10;D:/Workdir/Projects/webapp/domain&#10;D:/Workdir/Projects/webapp/validation&#10;D:/Workdir/Projects/webapp/easymock&#10;D:/Workdir/Projects/webapp/gwt&#10;D:/Workdir/Projects/webapp/gin&#10;D:/Workdir/Projects/webapp/java&#10;D:/Workdir/Projects/webapp/stweb&#10;D:/Workdir/Projects/webapp/commons" />
+    <property name="last.imported.location" value="D:/Workdir/Projects/webapp/rw" />
+    <property name="create.project.preferred.importer" value="Maven" />
+    <property name="DeploymentNotificationsComponent.WarnDisplayed.Java7&amp;Windows7FTPIssue" value="false" />
+    <property name="lastTip" value="88" />
+    <property name="ts.lib.d.ts.version" value="2.6.1" />
+    <property name="file.gist.reindex.count" value="38261" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="selected.color.option.type" value="CLASS_NAME_ATTRIBUTES" />
+    <property name="ColorChooser.RecentColors" value="255-68-0-255,,,130-137-143-255,,,98-105-111-255,,,255-0-0-255,,,255-153-0-255,,,190-145-23-255,,,188-63-60-255,,,255-170-0-255,,,255-238-0-255,,,255-221-0-255,,,255-136-0-255,,,66-73-79-255,,,148-232-180-255,,,94-140-97-255,,,100-111-75-255,,,56-76-56-255,,,104-151-187-255,,,118-165-121-255" />
+    <property name="SpringBeansModulesPanel[0]" value="0.105876125" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_STATUS_BAR" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_MAIN_TOOLBAR" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_NAVIGATION_BAR" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.IS_FOLDING_OUTLINE_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.IS_WHITESPACES_SHOWN" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.ARE_LINE_NUMBERS_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.ARE_GUTTER_ICONS_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.IS_RIGHT_MARGIN_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.IS_INDENT_GUIDES_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_BREADCRUMBS" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_METHOD_SEPARATORS" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.HIDE_TOOL_STRIPES" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.EDITOR_TAB_PLACEMENT" value="1" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_STATUS_BAR" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_MAIN_TOOLBAR" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_NAVIGATION_BAR" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.IS_FOLDING_OUTLINE_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.IS_WHITESPACES_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.ARE_LINE_NUMBERS_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.ARE_GUTTER_ICONS_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.IS_RIGHT_MARGIN_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.IS_INDENT_GUIDES_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_BREADCRUMBS" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_METHOD_SEPARATORS" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.HIDE_TOOL_STRIPES" value="true" />
+    <property name="AFTER.DISTRACTION.MODE.EDITOR_TAB_PLACEMENT" value="0" />
+    <property name="KEYMAP" value="tool win&#10;implement&#10;replace con&#10;split&#10;close all" />
+    <property name="SingleInspectionProfilePanel.VERTICAL_DIVIDER_PROPORTION" value="0.48711658" />
+    <property name="FileColorsForTabsEnabled" value="true" />
+    <property name="FileColorsForProjectViewEnabled" value="true" />
+    <property name="file.colors.enable.non.project" value="42494f" />
+    <property name="decompiler.legal.notice.accepted" value="true" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="FileTemplates.SelectedTemplate" value="HTML File" />
+    <property name="find.popup.splitter" value="0.4420904" />
+    <property name="project.wizard.group" value="SpringInitializr" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="project.wizard.template" value="Spring Initializr" />
+    <property name="spring.initializr.service.url.history" value="" />
+    <property name="spring.initializr.service.url.last" value="https://start.spring.io" />
+    <property name="JUnitSupport.hidePassedTests" value="false" />
+    <property name="disable.forced.soft.wraps.notification" value="true" />
+    <property name="JUnit.Splitter.Proportion" value="0.33592534" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Sources" />
+    <property name="SpringBeansModulesPanel[1]" value="0.121285625" />
+    <property name="LiveContextsPanel[0]" value="0.13513513" />
+    <property name="SpringBeansModulesPanel[2]" value="0.13812155" />
+    <property name="settings.code.style.selected.tab.JAVA" value="Code Generation" />
+    <property name="PLUGIN_FILTER" value="lombok plugin&#10;lom&#10;axis" />
+    <property name="run.configuration.alternate.action.ad" value="true" />
+    <property name="show.indent.detected.notification" value="false" />
+    <property name="ProjectStructure.SecondLevelElements" value="0.33809" />
+    <property name="ProjectStructure.TopLevelElements" value="0.14738806" />
+    <property name="run.configuration.delete.ad" value="true" />
+    <property name="export.settings.path" value="D:\IngelliJ IDEA\config\settings\settings.jar" />
+    <property name="evlsprt3.173" value="15" />
+  </component>
+</application>
